@@ -1,6 +1,4 @@
 from random import randint
-from tkinter import *
-
 
 t = ["Rock", "Paper", "Scissors"]
 
